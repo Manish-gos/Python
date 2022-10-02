@@ -1,0 +1,10 @@
+a=5
+b=-66
+c=201
+print(a,b,c)
+print(type(a))
+x=2.5
+y=-3.5
+z=205
+print(x,y,z)
+print(type(z),type(x))

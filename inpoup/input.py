@@ -1,0 +1,10 @@
+s=input()
+print(s)
+t=input("Enteryour name")
+print(t)
+print(type(t))
+i=int(input("give int"))
+print(i)
+print(type(i))
+lst=[int(x) for x in input("enter three valur comasprated").split(",") ]
+print(lst)
